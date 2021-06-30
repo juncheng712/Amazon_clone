@@ -1,0 +1,8 @@
+.createProduct {
+    padding: 50px;
+}
+
+.createProduct__form {
+    display: flex;
+    flex-direction: column;
+}
